@@ -1,0 +1,86 @@
+[
+  {
+    "path": "App.tsx",
+    "file": {
+      "file_name": "/mnt/data/src/App.tsx",
+      "storage_handle": "",
+      "storage_type": "BASE64"
+    }
+  },
+  {
+    "path": "assets/e1038468df166f45-img-u7531222977551289791-1.jpg",
+    "file": {
+      "file_name": "/mnt/data/.krabby/agentic_web_artifacts/agentic_artifact_125396623339/87dd031f8405/assets/e1038468df166f45-img-u7531222977551289791-1.jpg",
+      "storage_handle": "",
+      "storage_type": "MANIFOLD",
+      "fbid": 1705842307740777,
+      "mime": "image/jpeg",
+      "href": "https://scontent.xx.fbcdn.net/m1/v/t6/AQMknSyelPjz6iuR-SRL2hEGgcjF_BGpBxiPBjl0bhdx4UoSqolnv-MI9SpHegiX2h4EECN4NIoPIJSG3jx8EJ0-uDgSvVg-36rnr3eLYdwlzYNcRXINLZQ9hWZy?ccb=10-5&oh=00_AQSaD6M1dXN1kQUh1tkwozyaYrT9clkFlg-xLUqMTCG0wg&oe=6B085C8D&_nc_sid=4ee932",
+      "source_identifiers": [
+        {
+          "type": "typed_fbid",
+          "value": {
+            "fbid": 1705842307740777,
+            "fbtype": 71334
+          }
+        },
+        {
+          "type": "url",
+          "value": "https://www.h.metaaiusercontent.com/app/maiwa-p-228ec7cec9a4913a324fcce1fa4e7639ec5063d08b4c3afe/actions"
+        },
+        {
+          "type": "url",
+          "value": "https://www.h.metaaiusercontent.com/app/maiwa-pf-dd89288244f2c24994022e906f49a398d4d3eefffa42cb70/actions"
+        },
+        {
+          "type": "url",
+          "value": "safetynet_input_media://c840ad57be93402bb881cb32a9302c7e"
+        }
+      ],
+      "source_tools": [
+        "container.build_react_artifact",
+        "container.create",
+        "container.create_web_artifact_agent_stateful",
+        "container.edit_file",
+        "container.validate_react_artifact"
+      ],
+      "media_origin": "USER_UPLOAD"
+    }
+  },
+  {
+    "path": "index.css",
+    "file": {
+      "file_name": "/mnt/data/.krabby/agentic_web_artifacts/agentic_artifact_125396623339/87dd031f8405/index.css",
+      "storage_handle": "",
+      "storage_type": "BASE64",
+      "source_identifiers": [
+        {
+          "type": "typed_fbid",
+          "value": {
+            "fbid": 1705842307740777,
+            "fbtype": 71334
+          }
+        },
+        {
+          "type": "url",
+          "value": "https://www.h.metaaiusercontent.com/app/maiwa-p-228ec7cec9a4913a324fcce1fa4e7639ec5063d08b4c3afe/actions"
+        },
+        {
+          "type": "url",
+          "value": "https://www.h.metaaiusercontent.com/app/maiwa-pf-dd89288244f2c24994022e906f49a398d4d3eefffa42cb70/actions"
+        },
+        {
+          "type": "url",
+          "value": "safetynet_input_media://c840ad57be93402bb881cb32a9302c7e"
+        }
+      ],
+      "source_tools": [
+        "container.build_react_artifact",
+        "container.create",
+        "container.create_web_artifact_agent_stateful",
+        "container.edit_file",
+        "container.validate_react_artifact"
+      ]
+    }
+  }
+]
