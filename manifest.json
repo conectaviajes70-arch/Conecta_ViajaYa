@@ -1,0 +1,17 @@
+{
+  "name": "Conecta",
+  "short_name": "Conecta",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#00BFFF",
+  "description": "Viaja con estilo, viaja Conecta",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
